@@ -6,7 +6,7 @@ Prerequisites
 
 **Node.js**
 
-Protractor is a [Node.js](http://nodejs.org/) program. To run Protractor, you will need to have Node.js installed. Check the version of node you have by running `node --version`. It should be greater than v0.10.0. 
+Protractor is a [Node.js](http://nodejs.org/) program. To run Protractor, you will need to have Node.js installed. Check the version of node you have by running `node --version`. It should be greater than v4.0.0. 
 
 Node.js comes with the Protractor [npm](https://www.npmjs.org/) package, which you can use to install Protractor.
 
